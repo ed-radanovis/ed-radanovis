@@ -1,28 +1,35 @@
 
 ![](https://komarev.com/ghpvc/?username=ed-radanovis&color=006bed)
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Desenvolvimento Front-end** no <strong>DevClub<strong/>.
-- 💼 &nbsp; Buscando a oportunidade de uma vaga em uma conceituada empresa.
-- 🌱 &nbsp; Aprendendo mais sobre **![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) **.
+Sobre mim
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+- Explorando novas tecnologias e desenvolvendo soluções de software.
+- Concluindo formação em Desenvolvimento Full Stack.
+- Buscando a oportunidade de recolocação.
 
-**Aplicações e Dados**
+<h3> Minhas Skills </h3>
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+**Markup / Styling Languages**
+
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  
+**Programming Languages and Frameworks**
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)
 
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
  
 **Ferramentas de Desenvolvimento**
 
