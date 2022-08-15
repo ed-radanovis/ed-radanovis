@@ -1,15 +1,17 @@
 
 ![](https://komarev.com/ghpvc/?username=ed-radanovis&color=006bed)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador ed">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador ed">
 
-<img src="https://user-images.githubusercontent.com/97674396/184233966-7c007693-062f-46e4-a323-162a6c6403c9.jpg" min-width="130px" max-width="130px" width="130px" align="left" alt="imagem sobre mim"> Sobre mim
+<img src="https://user-images.githubusercontent.com/97674396/184233966-7c007693-062f-46e4-a323-162a6c6403c9.jpg" min-width="180px" max-width="180px" width="180px" align="left" alt="imagem sobre mim"> **About me**
 
-- Explorando novas tecnologias e desenvolvendo soluções web e de software.
-- Concluindo formação em Desenvolvimento Full Stack.
-- Buscando uma oportunidade de recolocação para consolidar minha transição de carreira.
+- Full training in Full Stack Development.
+- Exploring new technologies and developing web and software solutions.
+- Looking for a replacement opportunity to consolidate my career transition.
 
-<h3> Skills </h3>
+<br>
+
+<h2> Skills </h2>
 
 **Markup / Styling Languages**
 
@@ -38,11 +40,17 @@
   ![Nodemon](https://img.shields.io/badge/-Nodemon-333333?style=flat&logo=nodemon)
   ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-333333?style=flat&logo=React%20Hook%20Form)
   ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=MUI)
-  
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
-  ![styled-components](https://img.shields.io/badge/-styled%20components-333333?style=flat&logo=styled-components)
   ![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=Ant%20Design)
-  ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-333333?style=flat&logo=React%20Hook%20Form)
+  
+  ![styled-components](https://img.shields.io/badge/-styled%20components-333333?style=flat&logo=styled-components)
+  ![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=Axios)
+  ![React Redux](https://img.shields.io/badge/-React%20Redux-333333?style=flat&logo=React%20Redux)
+  ![React Elastic Carousel](https://img.shields.io/badge/-React%20Elastic%20Carousel-333333?style=flat&logo=React%20Elastic%20Carousel)
+  ![Formik](https://img.shields.io/badge/-Formik-333333?style=flat&logo=Formik)
+  ![Prime React](https://img.shields.io/badge/-Prime%20React-333333?style=flat&logo=Prime%20React)
+  ![React Select](https://img.shields.io/badge/-React%20Select-333333?style=flat&logo=React%20Select)
+  ![React toastify](https://img.shields.io/badge/-React%20toastify-333333?style=flat&logo=React%20toastify)  
 
 **Databases**  
 
