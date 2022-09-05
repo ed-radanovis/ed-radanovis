@@ -52,7 +52,7 @@
   ![React Select](https://img.shields.io/badge/-React%20Select-333333?style=flat&logo=React%20Select)
   ![React toastify](https://img.shields.io/badge/-React%20toastify-333333?style=flat&logo=React%20toastify)  
 
-**Databases**  
+**DBMS's**  
 
   ![PostegreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)
