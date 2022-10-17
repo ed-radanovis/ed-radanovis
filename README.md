@@ -41,6 +41,7 @@
   ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-333333?style=flat&logo=React%20Hook%20Form)
   ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=MUI)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
+  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
   ![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=Ant%20Design)
   
   ![styled-components](https://img.shields.io/badge/-styled%20components-333333?style=flat&logo=styled-components)
@@ -57,6 +58,7 @@
   ![PostegreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   
 **DevOps**
 
