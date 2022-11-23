@@ -21,9 +21,11 @@
 **Programming Languages and Frameworks**
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2F74C0)
   ![C language](https://img.shields.io/badge/-C%20language-333333?style=flat&logo=C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=d31f25)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   
 **Package Managers**
