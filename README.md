@@ -26,15 +26,14 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=d31f25)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  
+    
 **Package Managers**
 
   ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=Yarn)
   ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
   ![Chocolatey](https://img.shields.io/badge/-Chocolatey-333333?style=flat&logo=Chocolatey)
   
-**Libraries** 
+**Sample of some Libraries I work with** 
  
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=React%20Router)
@@ -67,13 +66,14 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 
 **Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia)
-
+  
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-EdmarRadanovis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/edmar-radanovis-0130b611a/)
