@@ -24,6 +24,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2F74C0)
   ![C language](https://img.shields.io/badge/-C%20language-333333?style=flat&logo=C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=d31f25)
     
@@ -35,7 +36,6 @@
   
 **Sample of some Libraries I work with** 
  
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=React%20Router)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=Sequelize)
   ![Nodemon](https://img.shields.io/badge/-Nodemon-333333?style=flat&logo=nodemon)
