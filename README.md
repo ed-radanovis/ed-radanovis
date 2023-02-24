@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="380px" width="380px" align="right" alt="Computador ed">
 
-<img src="Logo edwebdev 0.png" min-width="220px" max-width="220px" width="220px" align="left" alt="imagem sobre mim"> **About me**
+<img src="Logo edwebdev 0.png" min-width="180px" max-width="800px" width="180px" height="230px" align="left" alt="imagem sobre mim"> **About me**
 
 - Full training in Full Stack Development.
 - Exploring new technologies and developing web and software solutions.
