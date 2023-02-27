@@ -77,6 +77,7 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-EdmarRadanovis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/edmar-radanovis-0130b611a/)
-[![Gmail Badge](https://img.shields.io/badge/-edradanovis@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edradanovis@gmail.com)](mailto:edradanovis@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-edradanovis@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:edradanovis@gmail.com)](mailto:edradanovis@gmail.com)
+[![Portfolio SEU NOME]( https://img.shields.io/badge/-Portf%C3%B3lio%20=%3E%20https://edwebdev.onrender.com-purple?=white&link=LINK-DO-SEU-PORTFOLIO)](https://edwebdev.onrender.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/ed-radanovis?label=follow&style=social)](https://github.com/ed-radanovis)
 
