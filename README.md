@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ed-radanovis&color=006bed)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="380px" width="380px" align="right" alt="Computador ed">
+<img src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=6c09b952aeed6a4847ec5e20cf981833de345c61fee910b3&rid=giphy.gif&ct=g" min-width="380px" max-width="380px" width="380px" align="right" alt="Computador ed">
 
 <img src="Logo edwebdev 0.png" min-width="180px" max-width="800px" width="180px" height="180px" align="left" alt="imagem sobre mim"> **About me**
 
