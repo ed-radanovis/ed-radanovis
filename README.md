@@ -81,3 +81,4 @@
 [![Portfolio SEU NOME]( https://img.shields.io/badge/-Portf%C3%B3lio%20=%3E%20https://edwebdev.vercel.app/-purple?=white&link=LINK-DO-SEU-PORTFOLIO)](https://edwebdev.vercel.app/)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/ed-radanovis?label=follow&style=social)](https://github.com/ed-radanovis)
 
+<img src="https://media1.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.webp?cid=6c09b95291f2f97143d49233910293b0b6c4429cd7d373a2&rid=giphy.webp&ct=g" min-width="100px" max-width="100px" width="60px" height="60px" align="middle" alt="imagem we can code this">
