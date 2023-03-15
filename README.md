@@ -1,9 +1,9 @@
 
 ![](https://komarev.com/ghpvc/?username=ed-radanovis&color=006bed)
 
-<img src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=6c09b952aeed6a4847ec5e20cf981833de345c61fee910b3&rid=giphy.gif&ct=g" min-width="380px" max-width="380px" width="380px" align="right" alt="Computador ed">
+<img src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=6c09b952aeed6a4847ec5e20cf981833de345c61fee910b3&rid=giphy.gif&ct=g" min-width="100px" max-width="380px" width="350px" align="right" alt="Computador ed">
 
-<img src="Logo edwebdev 0.png" min-width="180px" max-width="800px" width="180px" height="180px" align="left" alt="imagem sobre mim"> **About me**
+<img src="Logo edwebdev redonda.png" min-width="180px" max-width="800px" width="180px" height="180px" align="left" alt="imagem sobre mim"> **About me**
 
 - Full training in Full Stack Development.
 - Exploring new technologies and developing web and software solutions.
@@ -16,6 +16,7 @@
 **Markup / Styling Languages**
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=Markdown)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 **Programming Languages and Frameworks**
