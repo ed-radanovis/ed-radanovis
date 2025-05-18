@@ -58,13 +58,14 @@ ___
 
 ___
 
->**Sample of some Libraries I work with** 
+>**Sample of some libraries, APIs and SDKs I work with** 
  
   >![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=React%20Router)
    ![Clerk](https://img.shields.io/badge/-Clerk-333333?style=flat&logo=Clerk&logoColor=6E45E2)
    ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=Sequelize)
    ![Nodemon](https://img.shields.io/badge/-Nodemon-333333?style=flat&logo=nodemon)
    ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-333333?style=flat&logo=React%20Hook%20Form)
+   ![Stripe](https://custom-icon-badges.demolab.com/badge/-Stripe-333333?style=flat&logo=stripe&logoColor=008CDD)
    ![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-333333?style=flat&logo=Prime%20Shadcn)
    ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=MUI)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
@@ -112,7 +113,7 @@ ___
 
 <h2 align="center"> :earth_americas: &nbsp;Onde me encontrar: </h2> 
 
-[![LinkedIn: Edmar](https://custom-icon-badges.demolab.com/badge/-Edmar_Radanovis-333333?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/edmar-radanovis-0130b611a/)   [![Gmail: Edmar](https://custom-icon-badges.demolab.com/badge/-edradanovis@gmail.com-757070?style=flat&logo=gmail&logoColor=e84d31)](mailto:edradanovis@gmail.com)   [![Portfolio: Edmar](https://custom-icon-badges.demolab.com/badge/-Portfolio_edwebdev.vercel.app-878080?style=flat&logo=globe&logoColor=0d0d0d)](https://edwebdev.vercel.app/)  
+[![LinkedIn: Edmar](https://custom-icon-badges.demolab.com/badge/-Edmar_Radanovis-333333?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/edmar-radanovis-0130b611a/)   [![Gmail: Edmar](https://custom-icon-badges.demolab.com/badge/-edradanovis@gmail.com-565454?style=flat&logo=gmail&logoColor=e84d31)](mailto:edradanovis@gmail.com)   [![Portfolio: Edmar](https://custom-icon-badges.demolab.com/badge/-Portfolio_edwebdev.vercel.app-878080?style=flat&logo=globe&logoColor=0d0d0d)](https://edwebdev.vercel.app/)  
 [![GitHub Edmar](https://img.shields.io/github/followers/ed-radanovis?label=follow&style=social)](https://github.com/ed-radanovis)
 
 ___
