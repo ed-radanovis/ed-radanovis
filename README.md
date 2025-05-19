@@ -23,7 +23,7 @@
 <p align="center">
 <img src="Logo_EWD_APEX.red.png" min-width="180px" max-width="800px" width="200px" height="200px" alt="about me image"> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="logo_finalizado-red.jpg" min-width="180px" max-width="800px" width="130px" height="130px" alt="about me image"> 
+ <img src="logo_finalizado-red.jpg" min-width="180px" max-width="800px" width="100px" height="100px" alt="about me image"> 
 </p>
 
 ***
@@ -58,21 +58,28 @@ ___
 
 ___
 
->**Sample of some libraries, APIs and SDKs I work with** 
+>**Examples of some libraries, APIs and SDKs that I have worked with** 
  
   >![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=React%20Router)
    ![Clerk](https://img.shields.io/badge/-Clerk-333333?style=flat&logo=Clerk&logoColor=6E45E2)
    ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=Sequelize)
    ![Nodemon](https://img.shields.io/badge/-Nodemon-333333?style=flat&logo=nodemon)
+   ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=0769AD)]
+   ![CDNJS](https://custom-icon-badges.demolab.com/badge/-CDNJS-333333?style=flat&logo=cdnjs&logoColor=F05331)
    ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-333333?style=flat&logo=React%20Hook%20Form)
+   ![Zod](https://custom-icon-badges.demolab.com/badge/-Zod-333333?style=flat&logo=lock&logoColor=3E67B1)
    ![Stripe](https://custom-icon-badges.demolab.com/badge/-Stripe-333333?style=flat&logo=stripe&logoColor=008CDD)
+   ![NextAuth.js](https://custom-icon-badges.demolab.com/badge/-NextAuth.js-333333?style=flat&logo=lock&logoColor=D1D5DB)
+   ![Upstash](https://custom-icon-badges.demolab.com/badge/-Upstash-333333?style=flat&logo=upstash&logoColor=00E9A3)
    ![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-333333?style=flat&logo=Prime%20Shadcn)
    ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=MUI)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
    ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=Tailwind-CSS&logoColor=38B2AC)
    ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
-   ![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=Ant%20Design)
    ![styled-components](https://img.shields.io/badge/-styled%20components-333333?style=flat&logo=styled-components)
+   ![Swiper](https://custom-icon-badges.demolab.com/badge/-Swiper-333333?style=flat&logo=swiper&logoColor=0075FF)
+   ![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=Ant%20Design)
+   ![Lucide](https://custom-icon-badges.demolab.com/badge/-Lucide-333333?style=flat&logo=lucide&logoColor=F4D03F)
    ![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=Axios)
    ![React Redux](https://img.shields.io/badge/-React%20Redux-333333?style=flat&logo=React%20Redux)
    ![React Elastic Carousel](https://img.shields.io/badge/-React%20Elastic%20Carousel-333333?style=flat&logo=React%20Elastic%20Carousel)
