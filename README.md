@@ -8,37 +8,41 @@
 
 ***
 
-<h1 align="center"> 🏆 About me : 🏆</h1>
+<h1 align="center"> 🏆 About me : 🏆 </h1>
+ <p align="center">
+<img src="logo_finalizado-red.jpg" min-width="180px" max-width="180px" width="80px" height="80px" alt="about me image">  
+  </p>
 
-```
-✔️ Complete training in Full Stack Development. I have been a technology professional since January 2022, with diverse and promising know-how, solid training and daily improvement (studying Software Engineering since 2025). I have excellent communication skills in collaborating with heterogeneous and productive teams.
 
-✔️ I am familiar with the latest development tools, techniques and procedures. I am always exploring new technologies and expanding software solutions.
-
-✔️ I have the ability to change the context and deliver innovative results. I seek to bring ideas to life and deliver convincing work before the deadline. All this while closely monitoring design, accessibility and well-structured code.
-
-✔️ I am a specialist in creating websites for companies of all sizes, segments and categories. I believe that clients should not settle for cheap solutions or generic templates. I always deliver customized projects with the best possible cost-benefit ratio.
-```
+>✔️&nbsp;&nbsp; Complete training in Full Stack Development. I have been a technology professional since January 2022, with diverse and promising know-how, solid training and daily improvement (studying Software Engineering since 2025).<br>
+I have excellent communication skills in collaborating with heterogeneous and productive teams.<br>
+><br>
+>✔️&nbsp;&nbsp;Familiar with the latest development tools, techniques and procedures.<br>
+Always exploring new technologies and expanding software solutions.<br>
+><br>
+>✔️&nbsp;&nbsp;I have the ability to change the context and deliver innovative results.<br>
+I seek to bring ideas to life and deliver convincing work before the deadline.<br>
+All this while closely monitoring design, accessibility and well-structured code.<br>
+><br>
+>✔️&nbsp;&nbsp;I specialize in creating websites for companies of all sizes, segments and categories.I believe that clients should not settle for cheap solutions or generic templates and I always deliver customized projects with the best possible cost-benefit.
 
 <p align="center">
-<img src="Logo_EWD_APEX.red.png" min-width="180px" max-width="800px" width="200px" height="200px" alt="about me image"> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="logo_finalizado-red.jpg" min-width="180px" max-width="800px" width="100px" height="100px" alt="about me image"> 
+<img src="Logo_EWD_APEX.red.png" min-width="180px" max-width="800px" width="200px" height="200px" alt="about me image">
 </p>
 
 ***
 
 <h1 align="center">Hard Skills</h1>
 
- >**Markup / Styling Languages**
-
+>**Markup / Styling Languages**
+>
    >![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
     ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=Markdown)
     ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
  ___
   
-  >**Programming Languages and Frameworks**
-
+>**Programming Languages and Frameworks**
+>
   >![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
    ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2F74C0)
    ![C language](https://img.shields.io/badge/-C%20language-333333?style=flat&logo=C)
@@ -51,7 +55,7 @@
 ___
 
 >**Package Managers**
-
+>
   >![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm&logoColor=d31f25)
    ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=Yarn)
    ![Chocolatey](https://img.shields.io/badge/-Chocolatey-333333?style=flat&logo=Chocolatey)
@@ -59,7 +63,7 @@ ___
 ___
 
 >**Examples of some libraries, APIs and SDKs that I have worked with** 
- 
+ >
   >![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=React%20Router)
    ![Clerk](https://img.shields.io/badge/-Clerk-333333?style=flat&logo=Clerk&logoColor=6E45E2)
    ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=Sequelize)
@@ -92,7 +96,7 @@ ___
 ___
 
 >**DBMS's & ORM's**  
-
+>
   >![PostegreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
    ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)
    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -102,7 +106,7 @@ ___
 ___
 
 >**DevOps**
-
+>
   >![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
    ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
@@ -111,14 +115,17 @@ ___
 ___
 
 >**Development Tools**
-
+>
   >![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
    ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
    ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia&logoColor=6E45E2)
+>
 
 ___
 
-<h2 align="center"> :earth_americas: &nbsp;Onde me encontrar: </h2> 
+<h3 align="center">:earth_americas:<p><img src="https://github.com/user-attachments/assets/99665375-53fd-413c-934d-41379768a054" alt="Brazilian flag" width="40px" height="40px"></p>:calling::octocat::email:&nbsp;Contact Channels:&nbsp;:email::octocat::calling:</h3> 
+
+<br>
 
 [![LinkedIn: Edmar](https://custom-icon-badges.demolab.com/badge/-Edmar_Radanovis-333333?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/edmar-radanovis-0130b611a/)   [![Gmail: Edmar](https://custom-icon-badges.demolab.com/badge/-edradanovis@gmail.com-565454?style=flat&logo=gmail&logoColor=e84d31)](mailto:edradanovis@gmail.com)   [![Portfolio: Edmar](https://custom-icon-badges.demolab.com/badge/-Portfolio_edwebdev.vercel.app-878080?style=flat&logo=globe&logoColor=0d0d0d)](https://edwebdev.vercel.app/)  
 [![GitHub Edmar](https://img.shields.io/github/followers/ed-radanovis?label=follow&style=social)](https://github.com/ed-radanovis)
