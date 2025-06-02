@@ -36,90 +36,88 @@ All this while closely monitoring design, accessibility and well-structured code
 
 >**Markup / Styling Languages**
 >
-   >![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-    ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=Markdown)
-    ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+   >[![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    [![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=Markdown)](https://www.markdownguide.org/)
+    [![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
  ___
   
 >**Programming Languages and Frameworks**
 >
-  >![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2F74C0)
-   ![C language](https://img.shields.io/badge/-C%20language-333333?style=flat&logo=C)
-   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
-   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=d31f25)
-   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js&logoColor=000000)
-
+  >[![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+   [![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2F74C0)](https://www.typescriptlang.org/)
+   [![C language](https://img.shields.io/badge/-C%20language-333333?style=flat&logo=C)](https://en.wikipedia.org/wiki/C_(programming_language))
+   [![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)](https://nodejs.org/)
+   [![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)](https://expressjs.com/)
+   [![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)](https://react.dev/)
+   [![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=d31f25)](https://angular.io/)
+   [![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js&logoColor=000000)](https://nextjs.org/)
 ___
 
 >**Package Managers**
 >
-  >![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm&logoColor=d31f25)
-   ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=Yarn)
-   ![Chocolatey](https://img.shields.io/badge/-Chocolatey-333333?style=flat&logo=Chocolatey)
-
+  >[![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm&logoColor=d31f25)](https://www.npmjs.com/)
+   [![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=Yarn)](https://yarnpkg.com/)
+   [![Chocolatey](https://img.shields.io/badge/-Chocolatey-333333?style=flat&logo=Chocolatey)](https://chocolatey.org/)
 ___
 
 >**Examples of some libraries, APIs and SDKs that I have worked with** 
  >
-  >![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=React%20Router)
-   ![Clerk](https://img.shields.io/badge/-Clerk-333333?style=flat&logo=Clerk&logoColor=6E45E2)
-   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=Sequelize)
-   ![Nodemon](https://img.shields.io/badge/-Nodemon-333333?style=flat&logo=nodemon)
-   ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=0769AD)]
-   ![CDNJS](https://custom-icon-badges.demolab.com/badge/-CDNJS-333333?style=flat&logo=cdnjs&logoColor=F05331)
-   ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-333333?style=flat&logo=React%20Hook%20Form)
-   ![Zod](https://custom-icon-badges.demolab.com/badge/-Zod-333333?style=flat&logo=lock&logoColor=3E67B1)
-   ![Stripe](https://custom-icon-badges.demolab.com/badge/-Stripe-333333?style=flat&logo=stripe&logoColor=008CDD)
-   ![NextAuth.js](https://custom-icon-badges.demolab.com/badge/-NextAuth.js-333333?style=flat&logo=lock&logoColor=D1D5DB)
-   ![Upstash](https://custom-icon-badges.demolab.com/badge/-Upstash-333333?style=flat&logo=upstash&logoColor=00E9A3)
-   ![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-333333?style=flat&logo=Prime%20Shadcn)
-   ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=MUI)
-   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
-   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=Tailwind-CSS&logoColor=38B2AC)
-   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
-   ![styled-components](https://img.shields.io/badge/-styled%20components-333333?style=flat&logo=styled-components)
-   ![Swiper](https://custom-icon-badges.demolab.com/badge/-Swiper-333333?style=flat&logo=swiper&logoColor=0075FF)
-   ![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=Ant%20Design)
-   ![Lucide](https://custom-icon-badges.demolab.com/badge/-Lucide-333333?style=flat&logo=lucide&logoColor=F4D03F)
-   ![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=Axios)
-   ![React Redux](https://img.shields.io/badge/-React%20Redux-333333?style=flat&logo=React%20Redux)
-   ![React Elastic Carousel](https://img.shields.io/badge/-React%20Elastic%20Carousel-333333?style=flat&logo=React%20Elastic%20Carousel)
-   ![Formik](https://img.shields.io/badge/-Formik-333333?style=flat&logo=Formik)
-   ![Prime React](https://img.shields.io/badge/-Prime%20React-333333?style=flat&logo=Prime%20React)
-   ![React Select](https://img.shields.io/badge/-React%20Select-333333?style=flat&logo=React%20Select)
-   ![React toastify](https://img.shields.io/badge/-React%20toastify-333333?style=flat&logo=React%20toastify)
-   ![Husky](https://img.shields.io/badge/-Husky-333333?style=flat&&logo=Husky) 
-
+  >[![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=React%20Router)](https://reactrouter.com/)
+   [![Clerk](https://img.shields.io/badge/-Clerk-333333?style=flat&logo=Clerk&logoColor=6E45E2)](https://clerk.com/)
+   [![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=Sequelize)](https://sequelize.org/)
+   [![Nodemon](https://img.shields.io/badge/-Nodemon-333333?style=flat&logo=nodemon)](https://github.com/remy/nodemon)
+   [![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=0769AD)](https://jquery.com/)
+   [![CDNJS](https://custom-icon-badges.demolab.com/badge/-CDNJS-333333?style=flat&logo=cdnjs&logoColor=F05331)](https://cdnjs.com/)
+   [![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-333333?style=flat&logo=React%20Hook%20Form)](https://react-hook-form.com/)
+   [![Zod](https://custom-icon-badges.demolab.com/badge/-Zod-333333?style=flat&logo=lock&logoColor=3E67B1)](https://zod.dev/)
+   [![Stripe](https://custom-icon-badges.demolab.com/badge/-Stripe-333333?style=flat&logo=stripe&logoColor=008CDD)](https://stripe.com/)
+   [![NextAuth.js](https://custom-icon-badges.demolab.com/badge/-NextAuth.js-333333?style=flat&logo=lock&logoColor=D1D5DB)](https://next-auth.js.org/)
+   [![Upstash](https://custom-icon-badges.demolab.com/badge/-Upstash-333333?style=flat&logo=upstash&logoColor=00E9A3)](https://upstash.com/)
+   [![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-333333?style=flat&logo=shadcnui)](https://ui.shadcn.com/)
+   [![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=MUI)](https://mui.com/)
+   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)](https://getbootstrap.com/)
+   [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=Tailwind-CSS&logoColor=38B2AC)](https://tailwindcss.com/)
+   [![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)](https://sass-lang.com/)
+   [![styled-components](https://img.shields.io/badge/-styled%20components-333333?style=flat&logo=styled-components)](https://styled-components.com/)
+   [![Swiper](https://custom-icon-badges.demolab.com/badge/-Swiper-333333?style=flat&logo=swiper&logoColor=0075FF)](https://swiperjs.com/)
+   [![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=Ant%20Design)](https://ant.design/)
+   [![Lucide](https://custom-icon-badges.demolab.com/badge/-Lucide-333333?style=flat&logo=lucide&logoColor=F4D03F)](https://lucide.dev/)
+   [![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=Axios)](https://axios-http.com/)
+    [![React Redux](https://img.shields.io/badge/-React%20Redux-333333?style=flat&logo=redux)](https://react-redux.js.org/)
+   [![React Elastic Carousel](https://img.shields.io/badge/-React%20Elastic%20Carousel-333333?style=flat&logo=react)](https://www.npmjs.com/package/react-elastic-carousel)
+   [![Formik](https://img.shields.io/badge/-Formik-333333?style=flat&logo=Formik)](https://formik.org/)
+   [![PrimeReact](https://img.shields.io/badge/-PrimeReact-333333?style=flat&logo=primereact)](https://www.primefaces.org/primereact/)
+   [![React Select](https://img.shields.io/badge/-React%20Select-333333?style=flat&logo=react)](https://react-select.com/)
+   [![React Toastify](https://img.shields.io/badge/-React%20Toastify-333333?style=flat&logo=react)](https://fkhadra.github.io/react-toastify/)
+   [![Husky](https://img.shields.io/badge/-Husky-333333?style=flat&logo=husky)](https://typicode.github.io/husky/#/)
 ___
 
 >**DBMS's & ORM's**  
 >
-  >![PostegreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
-   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)
-   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=ffcc31)
-   ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma&logoColor=3982CE)
-   ![Neon](https://img.shields.io/badge/-Neon-333333?style=flat&logo=Neon)
+  >[![PostegreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)](https://www.postgresql.org/)
+   [![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)](https://www.mongodb.com/)
+   [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](https://www.mysql.com/)
+   [![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=ffcc31)](https://firebase.google.com/)
+   [![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma&logoColor=3982CE)](https://www.prisma.io/)
+   [![Neon](https://img.shields.io/badge/-Neon-333333?style=flat&logo=neon&logoColor=00E599)](https://neon.tech/)
+
 ___
 
 >**DevOps**
 >
-  >![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
-
+  >[![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](https://git-scm.com/)
+   [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/)
+   [![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)](https://www.docker.com/)
+   [![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)](https://aws.amazon.com/)
 ___
 
 >**Development Tools**
 >
-  >![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia&logoColor=6E45E2)
->
+  >[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+   [![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)](https://figma.com/)
+   [![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro&logoColor=ffdd33)](https://miro.com)
+   [![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite&logoColor=646CFF)](https://vite.dev)
+   [![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia&logoColor=6E45E2)](https://insomnia.rest/)
 
 ___
 
