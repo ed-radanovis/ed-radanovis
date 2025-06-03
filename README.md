@@ -64,7 +64,6 @@ ___
  >
   >[![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=React%20Router)](https://reactrouter.com/)
    [![Clerk](https://img.shields.io/badge/-Clerk-333333?style=flat&logo=Clerk&logoColor=6E45E2)](https://clerk.com/)
-   [![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=Sequelize)](https://sequelize.org/)
    [![Nodemon](https://img.shields.io/badge/-Nodemon-333333?style=flat&logo=nodemon)](https://github.com/remy/nodemon)
    [![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=0769AD)](https://jquery.com/)
    [![CDNJS](https://custom-icon-badges.demolab.com/badge/-CDNJS-333333?style=flat&logo=cdnjs&logoColor=F05331)](https://cdnjs.com/)
@@ -98,6 +97,7 @@ ___
    [![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)](https://www.mongodb.com/)
    [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](https://www.mysql.com/)
    [![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=ffcc31)](https://firebase.google.com/)
+   [![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=Sequelize)](https://sequelize.org/)
    [![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma&logoColor=3982CE)](https://www.prisma.io/)
    [![Neon](https://img.shields.io/badge/-Neon-333333?style=flat&logo=neon&logoColor=00E599)](https://neon.tech/)
 
