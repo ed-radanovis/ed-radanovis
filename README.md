@@ -88,7 +88,7 @@ ___
    [![PrimeReact](https://img.shields.io/badge/-PrimeReact-333333?style=flat&logo=primereact)](https://www.primefaces.org/primereact/)
    [![React Select](https://img.shields.io/badge/-React%20Select-333333?style=flat&logo=react)](https://react-select.com/)
    [![React Toastify](https://img.shields.io/badge/-React%20Toastify-333333?style=flat&logo=react)](https://fkhadra.github.io/react-toastify/)
-   [![Husky](https://img.shields.io/badge/-Husky-333333?style=flat&logo=husky)](https://typicode.github.io/husky/#/)
+   🐶[![Husky](https://img.shields.io/badge/-Husky-333333?style=flat&logo=husky)](https://typicode.github.io/husky/#/)
 ___
 
 >**DBMS's & ORM's**  
@@ -99,7 +99,7 @@ ___
    [![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=ffcc31)](https://firebase.google.com/)
    [![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=Sequelize)](https://sequelize.org/)
    [![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma&logoColor=3982CE)](https://www.prisma.io/)
-   [![Neon](https://img.shields.io/badge/-Neon-333333?style=flat&logo=neon&logoColor=00E599)](https://neon.tech/)
+   <img src="https://raw.githubusercontent.com/ed-radanovis/Soft-App-Memes-Machine-DIO-11-2022/6c046ddb9cd516f3cea41a8abbb1318fc3e6d8d1/assets/github/mini_logo_neondb.png" width="21px" alt="Neon Icon">[![Neon](https://img.shields.io/badge/-Neon-333333?style=flat&logo=neon&logoColor=00E599)](https://neon.tech/)
 
 ___
 
@@ -113,7 +113,7 @@ ___
 
 >**Development Tools**
 >
-  >[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+  ><img src="https://raw.githubusercontent.com/ed-radanovis/Soft-App-Memes-Machine-DIO-11-2022/6c046ddb9cd516f3cea41a8abbb1318fc3e6d8d1/assets/github/mini_logo_vscode.png" width="21px" alt="VS Code Icon">[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
    [![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)](https://figma.com/)
    [![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro&logoColor=ffdd33)](https://miro.com)
    [![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite&logoColor=646CFF)](https://vite.dev)
