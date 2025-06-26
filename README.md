@@ -38,7 +38,7 @@ All this while closely monitoring design, accessibility and well-structured code
 >
    >[![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
     [![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=Markdown)](https://www.markdownguide.org/)
-    [![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    <img src="https://raw.githubusercontent.com/ed-radanovis/Soft-App-Memes-Machine-DIO-11-2022/refs/heads/master/assets/github/mini_logo_css.png" width="16px" alt="CSS Icon">[![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
  ___
   
 >**Programming Languages and Frameworks**
@@ -108,7 +108,7 @@ ___
   >[![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](https://git-scm.com/)
    [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/)
    [![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)](https://www.docker.com/)
-   [![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)](https://aws.amazon.com/)
+   <img src="https://raw.githubusercontent.com/ed-radanovis/Soft-App-Memes-Machine-DIO-11-2022/refs/heads/master/assets/github/mini_logo_aws.png" width="25px" alt="CSS Icon">[![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)](https://aws.amazon.com/)
 ___
 
 >**Development Tools**
