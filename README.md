@@ -93,7 +93,7 @@ ___
 
 >**DBMS's & ORM's**  
 >
-  >[![PostegreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)](https://www.postgresql.org/)
+  >[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)](https://www.postgresql.org/)
    [![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)](https://www.mongodb.com/)
    [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](https://www.mysql.com/)
    [![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=ffcc31)](https://firebase.google.com/)
