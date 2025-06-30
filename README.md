@@ -109,6 +109,7 @@ ___
    [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/)
    [![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)](https://www.docker.com/)
    <img src="https://raw.githubusercontent.com/ed-radanovis/Soft-App-Memes-Machine-DIO-11-2022/refs/heads/master/assets/github/mini_logo_aws.png" width="25px" alt="CSS Icon">[![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)](https://aws.amazon.com/)
+  [![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Vercel)](https://vercel.com/)
 ___
 
 >**Development Tools**
