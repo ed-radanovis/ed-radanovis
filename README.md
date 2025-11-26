@@ -1,12 +1,26 @@
+ <div align="center">
+  
 ![](https://komarev.com/ghpvc/?username=ed-radanovis&color=006bed)
 
+</div>
+
 ---
- 
+
 <p align="center">
 <img src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=6c09b952aeed6a4847ec5e20cf981833de345c61fee910b3&rid=giphy.gif&ct=" min-width="100px" width="700px" min-height="200px" height="250px" alt="dev image">
 </p>
 
 ***
+
+ <div align="center">
+  
+![Métricas do Repositório](https://raw.githubusercontent.com/ed-radanovis/ed-radanovis/master/github-metrics.svg)
+
+</div>
+
+***
+
+<br>
 
 <h1 align="center"> 🏆 About me : 🏆 </h1>
  <p align="center">
@@ -25,7 +39,7 @@ I seek to bring ideas to life and deliver convincing work before the deadline.<b
 All this while closely monitoring design, accessibility and well-structured code.<br>
 ><br>
 >✔️&nbsp;&nbsp;I specialize in creating websites for companies of all sizes, segments and categories.I believe that clients should not settle for cheap solutions or generic templates and I always deliver customized projects with the best possible cost-benefit.
-
+<br>
 <p align="center">
 <img src="Logo_EWD_APEX.red.png" min-width="180px" max-width="800px" width="200px" height="200px" alt="about me image">
 </p>
