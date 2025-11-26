@@ -2,6 +2,7 @@
   
 ![](https://komarev.com/ghpvc/?username=ed-radanovis&color=006bed)
 
+
 </div>
 
 ---
@@ -13,8 +14,13 @@
 ***
 
  <div align="center">
-  
-![Métricas do Repositório](https://raw.githubusercontent.com/ed-radanovis/ed-radanovis/master/github-metrics.svg)
+
+<img 
+    src="https://raw.githubusercontent.com/ed-radanovis/ed-radanovis/master/github-metrics.svg"
+    alt="Métricas do Perfil GitHub"
+    width="70%"
+    style="border-radius: 12px;"
+  />
 
 </div>
 
