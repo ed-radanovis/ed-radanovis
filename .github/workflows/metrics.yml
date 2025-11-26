@@ -1,0 +1,34 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Atualiza a cada hora (ajuste se quiser)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: ed-radanovis
+          template: classic
+          base: ""
+          config_timezone: America/Sao_Paulo
+
+          # Linguagens apenas do repositório desejado
+          plugin_languages: yes
+          plugin_languages_individual: yes
+          plugin_languages_sections: most-used
+          plugin_languages_categories: programming
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_recent_categories: ""
+          plugin_languages_ignored: ""
+          plugin_languages_individual_repos: ed-radanovis/Engenharia_Software_Repositorio_Central-01-2025_a_10-2028
+
+          # Tema semelhante ao TokyoNight
+          config_theme: tokyonight
+
+          token: ${{ secrets.METRICS_TOKEN }}
