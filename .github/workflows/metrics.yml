@@ -17,17 +17,22 @@ jobs:
           base: ""
           config_timezone: America/Sao_Paulo
 
-          # OBRIGA o GitHub Metrics a usar apenas repositórios escolhidos
-          repositories_affiliations: owner
-          repositories: |
+          # ----------------------------------------------------
+          # ESSENCIAL → Obriga a escolher os repositórios usados
+          # ----------------------------------------------------
+          plugin_repositories: yes
+          plugin_repositories_affiliations: owner
+          plugin_repositories_featured: |
             ed-radanovis/Engenharia_Software_Repositorio_Central-01-2025_a_10-2028
 
-          # Linguagens APENAS do repo acima
+          # ----------------------------------------------------
+          # Linguagens — agora vai obedecer o repositório acima
+          # ----------------------------------------------------
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_indepth: yes
-          plugin_languages_indepth_custom: |
-            ed-radanovis/Engenharia_Software_Repositorio_Central-01-2025_a_10-2028
+          plugin_languages_analysis_timeout: 20
           plugin_languages_threshold: 0%
+          plugin_languages_recent_days: 0
+          plugin_languages_indepth: yes
 
           filename: github-metrics.svg
