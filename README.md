@@ -15,7 +15,7 @@
 
  <div align="center">
 
-  ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-radanovis&repo=ed-radanovis&theme=dark&hide_border=true&layout=compact)
+  ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-radanovis&repo=ed-radanovis&theme=dark&layout=compact&border_color=fdec02&title_color=0026ff&text_color=b3b3b3&card_width=500&bg_color=000000)
 
 </div>
 
@@ -125,6 +125,7 @@ ___
    [![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)](https://www.docker.com/)
    <img src="https://raw.githubusercontent.com/ed-radanovis/Soft-App-Memes-Machine-DIO-11-2022/refs/heads/master/assets/github/mini_logo_aws.png" width="25px" alt="CSS Icon">[![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)](https://aws.amazon.com/)
   [![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Vercel)](https://vercel.com/)
+  [![Google Cloud](https://img.shields.io/badge/-Google_Cloud-333333?style=flat&logo=googlecloud)](https://cloud.google.com/)
 ___
 
 >**Development Tools**
