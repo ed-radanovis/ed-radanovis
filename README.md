@@ -2,8 +2,10 @@
   
 ![](https://komarev.com/ghpvc/?username=ed-radanovis&color=006bed)
 
-
 </div>
+<p align="center">
+<img src="Logo_EWD_APEX_sem_fundo.png" min-width="180px" max-width="800px" width="200px" height="200px" alt="EWD Apex image">
+</p>
 
 ---
 
@@ -24,10 +26,6 @@
 <br>
 
 <h1 align="center"> 🏆 About me : 🏆 </h1>
- <p align="center">
-<img src="logo_finalizado-red.jpg" min-width="180px" max-width="180px" width="80px" height="80px" alt="about me image">  
-  </p>
-
 
 >✔️&nbsp;&nbsp; Complete training in Full Stack Development. I have been a technology professional since January 2022, with diverse and promising know-how, solid training and daily improvement (studying Software Engineering since 2025).<br>
 I have excellent communication skills in collaborating with heterogeneous and productive teams.<br>
@@ -41,9 +39,10 @@ All this while closely monitoring design, accessibility and well-structured code
 ><br>
 >✔️&nbsp;&nbsp;I specialize in creating websites for companies of all sizes, segments and categories.I believe that clients should not settle for cheap solutions or generic templates and I always deliver customized projects with the best possible cost-benefit.
 <br>
-<p align="center">
-<img src="Logo_EWD_APEX.red.png" min-width="180px" max-width="800px" width="200px" height="200px" alt="about me image">
-</p>
+
+ <p align="right">
+<img src="logo_finalizado-red.jpg" min-width="180px" max-width="180px" width="80px" height="80px" alt="logo Anhaguera image">  
+  </p>
 
 ***
 
@@ -141,9 +140,12 @@ ___
 <h3 align="center">:earth_americas:<p><img src="https://github.com/user-attachments/assets/99665375-53fd-413c-934d-41379768a054" alt="Brazilian flag" width="40px" height="40px"></p>:calling::octocat::email:&nbsp;Contact Channels:&nbsp;:email::octocat::calling:</h3> 
 
 <br>
-
+<div align="center">
+ 
 [![LinkedIn: Edmar](https://custom-icon-badges.demolab.com/badge/-Edmar_Radanovis-333333?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/edmar-radanovis-0130b611a/)   [![Gmail: Edmar](https://custom-icon-badges.demolab.com/badge/-edradanovis@gmail.com-565454?style=flat&logo=gmail&logoColor=e84d31)](mailto:edradanovis@gmail.com)   [![Portfolio: Edmar](https://custom-icon-badges.demolab.com/badge/-Portfolio_edwebdev.vercel.app-878080?style=flat&logo=globe&logoColor=0d0d0d)](https://edwebdev.vercel.app/)  
 [![GitHub Edmar](https://img.shields.io/github/followers/ed-radanovis?label=follow&style=social)](https://github.com/ed-radanovis)
+
+</div>
 
 ___
 
@@ -153,7 +155,7 @@ ___
       <img src="https://64.media.tumblr.com/77c1e8b65077e62ab66fbe8efa62bc85/tumblr_mxpq0pMO941sxqh33o1_400.gifv" min-width="100px" width="200px" height="100px" alt="matrix code image">
     </td>
     <td>
-      <img src="https://media1.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.webp?cid=6c09b95291f2f97143d49233910293b0b6c4429cd7d373a2&rid=giphy.webp&ct=g" min-width="100px" width="200px" height="100px" alt="imagem we can code this">
+      <img src="https://media1.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.webp?cid=6c09b95291f2f97143d49233910293b0b6c4429cd7d373a2&rid=giphy.webp&ct=g" min-width="100px" width="200px" height="100px" alt="we can code this image">
     </td>
     <td>
       <img src="https://64.media.tumblr.com/77c1e8b65077e62ab66fbe8efa62bc85/tumblr_mxpq0pMO941sxqh33o1_400.gifv" min-width="100px" width="200px" height="100px" alt="matrix code image">
