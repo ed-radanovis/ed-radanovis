@@ -15,7 +15,7 @@
 
  <div align="center">
 
-  ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-radanovis&repo=ed-radanovis&theme=dark&layout=compact&border_color=fdec02&title_color=0026ff&text_color=b3b3b3&card_width=500&bg_color=000000)
+  ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-radanovis&repo=ed-radanovis&theme=dark&layout=compact&border_color=fdec02&title_color=0026ff&text_color=b3b3b3&card_width=700&bg_color=000000)
 
 </div>
 
