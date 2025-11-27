@@ -155,7 +155,7 @@ ___
       <img src="https://64.media.tumblr.com/77c1e8b65077e62ab66fbe8efa62bc85/tumblr_mxpq0pMO941sxqh33o1_400.gifv" min-width="100px" width="200px" height="100px" alt="matrix code image">
     </td>
     <td>
-      <img src="https://media1.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.webp?cid=6c09b95291f2f97143d49233910293b0b6c4429cd7d373a2&rid=giphy.webp&ct=g" min-width="100px" width="200px" height="100px" alt="we can code this image">
+      <img src="https://media1.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.webp?cid=6c09b95291f2f97143d49233910293b0b6c4429cd7d373a2&rid=giphy.webp&ct=g" min-width="100px" width="120px" height="60px" alt="we can code this image">
     </td>
     <td>
       <img src="https://64.media.tumblr.com/77c1e8b65077e62ab66fbe8efa62bc85/tumblr_mxpq0pMO941sxqh33o1_400.gifv" min-width="100px" width="200px" height="100px" alt="matrix code image">
