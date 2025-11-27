@@ -15,12 +15,7 @@
 
  <div align="center">
 
-<img 
-    src="https://raw.githubusercontent.com/ed-radanovis/ed-radanovis/master/github-metrics.svg"
-    alt="Métricas do Perfil GitHub"
-    width="70%"
-    style="border-radius: 12px;"
-  />
+  ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-radanovis&repo=ed-radanovis&theme=dark&hide_border=true&layout=compact)
 
 </div>
 
