@@ -40,9 +40,11 @@ All this while closely monitoring design, accessibility and well-structured code
 >✔️&nbsp;&nbsp;I specialize in creating websites for companies of all sizes, segments and categories.I believe that clients should not settle for cheap solutions or generic templates and I always deliver customized projects with the best possible cost-benefit.
 <br>
 
- <p align="right">
-<img src="logo_finalizado-red.jpg" min-width="180px" max-width="180px" width="80px" height="80px" alt="logo Anhaguera image">  
-  </p>
+<div align="right">
+ <a href="/Engenharia_Software_Repositorio_Central_01-2025_a_10-2028">
+  <img src="logo_finalizado-red.jpg" min-width="180px" max-width="180px" width="80px" height="80px" alt="logo Anhaguera image">
+ </a>
+</div>
 
 ***
 
