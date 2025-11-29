@@ -42,7 +42,7 @@ All this while closely monitoring design, accessibility and well-structured code
 
 <div align="right">
  <a href="https://github.com/ed-radanovis/Engenharia_Software_Repositorio_Central_01-2025_a_10-2028">
-  <img src="logo_finalizado-red.jpg" min-width="180px" max-width="180px" width="80px" height="80px" alt="logo Anhaguera image">
+  <img src="logo_finalizado-red.jpg" target="_blank" min-width="180px" max-width="180px" width="80px" height="80px" alt="logo Anhaguera image">
  </a>
 </div>
 
