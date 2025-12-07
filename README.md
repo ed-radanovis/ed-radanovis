@@ -21,20 +21,6 @@
 
 </div>
 
-![Linguagens](https://clone-github-readme-stats-o7vkcahfu-edwebdevs-projects.vercel.app/api/top-langs/?username=ed-radanovis)
-
-![Linguagens](https://clone-github-readme-stats-o7vkcahfu-edwebdevs-projects.vercel.app/api/top-langs/?username=ed-radanovis&theme=dark&layout=compact&border_color=%23fdec02)
-
-![Linguagens](https://clone-github-readme-stats-o7vkcahfu-edwebdevs-projects.vercel.app/api/top-langs/?username=ed-radanovis&theme=dark&layout=compact&border_color=%23fdec02)
-
-![Linguagens](https://clone-github-readme-stats-o7vkcahfu-edwebdevs-projects.vercel.app/api/top-langs/?username=ed-radanovis&theme=dark&layout=compact&border_color=%23fdec02&random=1)
-
-<p align="center">
-  <img src="https://clone-github-readme-stats-o7vkcahfu-edwebdevs-projects.vercel.app/api/top-langs/?username=ed-radanovis&theme=dark&layout=compact&border_color=%23fdec02" alt="Linguagens Mais Usadas" />
-</p>
-
-![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ed-radanovis&theme=github_dark&random=1)
-
 ***
 
 <br>
