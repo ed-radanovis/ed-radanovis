@@ -67,6 +67,7 @@ All this while closely monitoring design, accessibility and well-structured code
    [![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)](https://react.dev/)
    [![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=d31f25)](https://angular.io/)
    [![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js&logoColor=000000)](https://nextjs.org/)
+   [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)](https://www.python.org/)
 ___
 
 >**Package Managers**
